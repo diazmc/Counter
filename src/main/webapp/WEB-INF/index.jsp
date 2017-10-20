@@ -10,7 +10,7 @@
 
 	<h1>Welcome User!</h1>
 	
-	<a href="/counter">Counter</a>
+	<a href="/counter">Go to Counter Page</a>
 
 </body>
 </html>
