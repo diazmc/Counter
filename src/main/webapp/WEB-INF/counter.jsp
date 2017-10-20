@@ -9,6 +9,8 @@
 		text-align: center;
 		overflow: hidden;
 		white-space: nowrap;
+		outline-style: dotted;
+		border-radius: 5px;
 	}
 	
 	button {
